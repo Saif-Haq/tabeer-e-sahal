@@ -4,8 +4,6 @@ import { BankDetails } from "@/src/components/BankDetails";
 export default function Home() {
   return (
     <div className="bg-[#3E0000]">
-      Coming Soon
-
       <Image 
         priority
         src="/image.png"
